@@ -1,3 +1,3 @@
-# fortunamajor
-An attempt at a mother file to use for app project and further large repos
-NOT including js or React, only for setting static styles
+# Fortunamajor
+This is my sass-mother-file, father-flex if you will, 
+I shall use thy for app project, websites or other projects, instead of having to redo everything.
